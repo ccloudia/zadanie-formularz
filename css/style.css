@@ -22,3 +22,8 @@ form {
     padding-top: 40px;
     
 }
+
+select {
+    margin-top: 10px;
+    font-size: 18px;
+}
