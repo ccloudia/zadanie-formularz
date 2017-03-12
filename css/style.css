@@ -2,7 +2,7 @@ body {
     background-color: #c681ea
 }
 
-p {
+h1 {
     font-family:fantasy;
     font-size: 30px;
     right: 0;
@@ -27,3 +27,6 @@ select {
     margin-top: 10px;
     font-size: 18px;
 }
+
+p {
+    
