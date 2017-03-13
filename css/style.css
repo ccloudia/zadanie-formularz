@@ -4,7 +4,7 @@ body {
 
 h1 {
     font-family: fantasy;
-    font-size: 30px;
+    font-size: 40px;
     right: 0;
     left: 0;
     margin: 0 auto;
@@ -27,3 +27,12 @@ select {
     font-size: 18px;
 }
 
+textarea {
+    font-size: 20px;
+    width: 500px;
+}
+#wyslij {
+    margin-top: 20px;
+    font-size:20px;
+    width:100px;
+}
